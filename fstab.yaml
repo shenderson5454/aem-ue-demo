@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://shenderson5454/bin/franklin.delivery/shenderson5454/AEM_UE_DEMO/main"
+    url: "https://<aem-author>/bin/franklin.delivery/shenderson5454/AEM_UE_DEMO/main"
     type: "markup"
     suffix: ".html"
