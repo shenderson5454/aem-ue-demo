@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/AEM_UE_DEMO/:/",
-    "/content/AEM_UE_DEMO/configuration:/.helix/config.json",
-    "/content/AEM_UE_DEMO/metadata:/metadata.json"
+    "/content/aem-ue-demo/:/",
+    "/content/aem-ue-demo/configuration:/.helix/config.json",
+    "/content/aem-ue-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/AEM_UE_DEMO/"
+    "/content/aem-ue-demo/"
   ]
 }
