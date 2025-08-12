@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://github.com/jennyjennyjenny/play-ue-eds/blob/main/fstab.yaml"
+    url: "https://author-p93305-e1744907.adobeaemcloud.com//bin/franklin.delivery/shenderson5454/AEM_UE_DEMO/main"
     type: "markup"
     suffix: ".html"
