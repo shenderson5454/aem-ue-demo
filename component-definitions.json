@@ -182,35 +182,6 @@
                   "name": "Hero",
                   "model": "hero"
                 }
-              },
-              "rte": {
-                "toolbar": [
-                  "format",
-                  "bold",
-                  "italic",
-                  "underline",
-                  "|",
-                  "forecolor",
-                  "backcolor",
-                  "|",
-                  "links",
-                  "|",
-                  "lists",
-                  "|",
-                  "#paraformat",
-                  "|",
-                  "fullscreen",
-                  "|",
-                  "html"
-                ],
-                "getColors": {
-                  "allowedColors": [
-                    "FF0000",
-                    "0000FF",
-                    "00FF00"
-                  ],
-                  "isAllowedCustomColors": true
-                }
               }
             }
           }
