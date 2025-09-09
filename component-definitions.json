@@ -15,10 +15,23 @@
       },
       "rte": {
         "toolbar": [
+          "format",
+          "bold",
+          "italic",
+          "underline",
+          "|",
           "forecolor",
           "backcolor",
           "|",
-          "#all"
+          "links",
+          "|",
+          "lists",
+          "|",
+          "#paraformat",
+          "|",
+          "fullscreen",
+          "|",
+          "html"
         ],
         "getColors": {
           "allowedColors": [
