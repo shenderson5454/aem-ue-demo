@@ -5,17 +5,27 @@
       "id": "default",
       "components": [
         {
-          "title": "Text",
-          "id": "text",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/text/v1/text",
-                "template": {}
-              }
-            }
-          }
-        },
+  "title": "Text",
+  "id": "text",
+  "plugins": {
+    "xwalk": {
+      "page": {
+        "resourceType": "core/franklin/components/text/v1/text",
+        "template": {}
+      },
+      "rte": {
+        "getColors": {
+          "allowedColors": [
+            "FF0000",
+            "0000FF",
+            "00FF00"
+          ],
+          "isAllowedCustomColors": true
+        }
+      }
+    }
+  }
+},
         {
           "title": "Title",
           "id": "title",
