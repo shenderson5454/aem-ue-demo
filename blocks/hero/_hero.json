@@ -35,32 +35,33 @@
           "value": ""
         },
         {
-    "component": "richtext",
-    "name": "text",
-    "value": "",
-    "label": "Text",
-    "valueType": "string",
-    "config": {
-        "toolbar": [
-            "format",
-            "bold",
-            "italic",
-            "underline",
-            "|",
-            "forecolor",
-            "backcolor"
-        ],
-        "getColors": {
-            "allowedColors": [
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text",
+          "valueType": "string",
+          "config": {
+            "toolbar": [
+              "format",
+              "bold",
+              "italic",
+              "underline",
+              "|",
+              "forecolor",
+              "backcolor"
+            ],
+            "getColors": {
+              "allowedColors": [
                 "FF0000",
                 "0000FF",
                 "00FF00"
-            ],
-            "isAllowedCustomColors": true
+              ],
+              "isAllowedCustomColors": true
+            }
+          }
         }
+      ]
     }
-}
-    
   ],
   "filters": []
 }
